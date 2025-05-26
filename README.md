@@ -17,7 +17,7 @@ Below is the list of **problem topics** for which custom or implementation-based
 
 **Know Basic Maths:**
 
-- 10. Count Digits
+10. Count Digits
 
 ---
 
