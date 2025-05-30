@@ -15,6 +15,10 @@ Below is the list of **problem topics** for which custom or implementation-based
 
 ### Step-1: Learn the Basics
 
+**Build-up Logical Thinking:**
+
+9. Patterns
+
 **Know Basic Maths:**
 
 10. Count Digits
