@@ -17,11 +17,15 @@ Below is the list of **problem topics** for which custom or implementation-based
 
 **Build-up Logical Thinking:**
 
-9. Patterns
+- $9.$ Patterns
 
 **Know Basic Maths:**
 
-10. Count Digits
+- $10.$ Count Digits
+- $13.$ GCD
+- $14.$ Armstrong Number
+- $15.$ Print All Divisors
+- $16.$ Check for Prime
 
 ---
 
